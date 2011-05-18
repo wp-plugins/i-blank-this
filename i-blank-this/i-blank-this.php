@@ -2,7 +2,7 @@
 /*
 Plugin Name: I Blank This
 Plugin URI: http://slobros.com/2011/wp/plugins/i-blank-this/
-Description: I Blank This is an I Like This button, except you can replace the text with anything you want.
+Description: "I Blank This" is an "I Like This" button, except you can replace the text with anything you want.
 Version: 1.0
 Author: SloBros
 Author URI: http://slobros.com/
